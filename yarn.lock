@@ -4462,10 +4462,10 @@ tailwindcss-box-shadow@^2.0.0:
   resolved "https://registry.yarnpkg.com/tailwindcss-box-shadow/-/tailwindcss-box-shadow-2.0.1.tgz#5d224fff9231019ff2780c07805821c43608e474"
   integrity sha512-F0reqyXrQkcPQiCM27ZqV8Le0CGqea0S5PCwwgTnNrdzOdDs2y6iJ5jJKIdMgKu/1VxUpgP0CMPU/k8vdqpLBA==
 
-tailwindcss-email-variants@^2.0.0:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/tailwindcss-email-variants/-/tailwindcss-email-variants-2.0.2.tgz#8bbe8626d8831a32677c5dbba6eac0b554abb870"
-  integrity sha512-uuOAMfaUd9zvxqOuAwwgNdS30e75bwWA/Hc8Urb94eTUT0GHS+MUWyHSGny1q/q4cVO7JL+4kDRhaoUkBvwOuQ==
+tailwindcss-email-variants@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/tailwindcss-email-variants/-/tailwindcss-email-variants-2.0.3.tgz#74e733ef0f2bc3a2858346ffd0dc029e4f34d0b5"
+  integrity sha512-AfO4g/ZpTW7EUV9c1F3gJK6Tqud7nz54oqo0U4ik0Y9jK2Wu7KNNFFK2IuhOa2FkuwGfZp6KLs9rTzwandq/+g==
   dependencies:
     lodash.get "^4.4.2"
 
