@@ -89,9 +89,9 @@
     update-notifier "^5.0.1"
 
 "@maizzle/framework@latest":
-  version "4.4.4"
-  resolved "https://registry.yarnpkg.com/@maizzle/framework/-/framework-4.4.4.tgz#a7ba9ab5d0bf53393c69780302814b2e01c6d3cb"
-  integrity sha512-gf2jhKJ+xcmDxySZE2/FBOjuNiB/xo41yPn8DhgkE1J6ikbt95it0H0bRzErauYoPivtaC3P8EEo7eJpeIZVyg==
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@maizzle/framework/-/framework-4.5.0.tgz#e58357e0d7e048c406afd0911c9acf77b0d1d170"
+  integrity sha512-73tjo9zEgYlUqc8Y92WgdPjgXLnF7L71am+K81jlDNCxX1NLuzcyH7fQVSW1M4lc1FvPPwyOg7R4+c3vW9Ks0A==
   dependencies:
     "@maizzle/cli" "^1.5.1"
     autoprefixer "^10.4.14"
